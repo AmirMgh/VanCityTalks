@@ -1,8 +1,8 @@
 <?php
 error_reporting(E_ALL);
-require_once '/var/www/neighborhood/segmentation.php';
-require_once '/var/www/neighborhood/rank.php';
-require_once '/var/www/neighborhood/helper.php';
+require_once '/var/www/VanCityTalks/segmentation.php';
+require_once '/var/www/VanCityTalks/rank.php';
+require_once '/var/www/VanCityTalks/helper.php';
 //$testDt = array(array("lat" => 49.286214, "lon" => -123.045363, "radius" => 1));
 //get_scores($testDt);
 
